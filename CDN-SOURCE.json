@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "publisherVersion": 1,
+  "source": {
+    "repository": "ExNG51/blackmatrix7-ios_rule_script",
+    "commit": "0b6897dc17e0c513d25449c935a9694818e32f0c",
+    "tree": "ffbe685685470eca51bde70e9a73c22530d4a09b"
+  },
+  "upstream": "blackmatrix7/ios_rule_script",
+  "rulePaths": [
+    "rule/Clash/Claude/Claude.list",
+    "rule/Clash/Gemini/Gemini.list",
+    "rule/Clash/PayPal/PayPal.list",
+    "rule/Surge/Apple/Apple_All_No_Resolve.list",
+    "rule/Surge/Cryptocurrency/Cryptocurrency.list",
+    "rule/Surge/DouYin/DouYin.list",
+    "rule/Surge/Dropbox/Dropbox.list",
+    "rule/Surge/Game/Game.list",
+    "rule/Surge/Global/Global_All_No_Resolve.list",
+    "rule/Surge/GlobalScholar/GlobalScholar.list",
+    "rule/Surge/GoogleDrive/GoogleDrive.list",
+    "rule/Surge/Hijacking/Hijacking.list",
+    "rule/Surge/MEGA/MEGA.list",
+    "rule/Surge/Microsoft/Microsoft.list",
+    "rule/Surge/OneDrive/OneDrive.list",
+    "rule/Surge/PrivateTracker/PrivateTracker.list",
+    "rule/Surge/Speedtest/Speedtest.list",
+    "rule/Surge/Telegram/Telegram.list",
+    "rule/Surge/TikTok/TikTok.list",
+    "rule/Surge/Weibo/Weibo.list",
+    "rule/Surge/YouTube/YouTube.list"
+  ],
+  "companionPaths": [
+    "LICENSE",
+    "README.md",
+    "rule/Clash/Claude/README.md",
+    "rule/Clash/Gemini/README.md",
+    "rule/Clash/PayPal/README.md",
+    "rule/Surge/Apple/README.md",
+    "rule/Surge/Cryptocurrency/README.md",
+    "rule/Surge/DouYin/README.md",
+    "rule/Surge/Dropbox/README.md",
+    "rule/Surge/Game/README.md",
+    "rule/Surge/Global/README.md",
+    "rule/Surge/GlobalScholar/README.md",
+    "rule/Surge/GoogleDrive/README.md",
+    "rule/Surge/Hijacking/README.md",
+    "rule/Surge/MEGA/README.md",
+    "rule/Surge/Microsoft/README.md",
+    "rule/Surge/OneDrive/README.md",
+    "rule/Surge/PrivateTracker/README.md",
+    "rule/Surge/Speedtest/README.md",
+    "rule/Surge/Telegram/README.md",
+    "rule/Surge/TikTok/README.md",
+    "rule/Surge/Weibo/README.md",
+    "rule/Surge/YouTube/README.md"
+  ],
+  "files": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "blob": "d159169d1050894d3ea3b98e1c965c4058208fe1",
+      "bytes": 18092
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "blob": "ca61b7558a2d500716265e0c3ae076e77ed82524",
+      "bytes": 5183
+    },
+    {
+      "path": "rule/Clash/Claude/Claude.list",
+      "mode": "100644",
+      "blob": "222554c6e93219bf5c08da5f331d8ed6a78e3db3",
+      "bytes": 244
+    },
+    {
+      "path": "rule/Clash/Claude/README.md",
+      "mode": "100644",
+      "blob": "55832f66f0b16a159ef538f59ebdf291ede538ba",
+      "bytes": 2581
+    },
+    {
+      "path": "rule/Clash/Gemini/Gemini.list",
+      "mode": "100644",
+      "blob": "838cafc9a7d51ab7e07c4606b223ce328ea5a4e3",
+      "bytes": 605
+    },
+    {
+      "path": "rule/Clash/Gemini/README.md",
+      "mode": "100644",
+      "blob": "4c1bf3081caceb02d2e7cc537de954b66b7b9000",
+      "bytes": 2694
+    },
+    {
+      "path": "rule/Clash/PayPal/PayPal.list",
+      "mode": "100644",
+      "blob": "b2bd35217901373277cbee811f019e84c0b12848",
+      "bytes": 7824
+    },
+    {
+      "path": "rule/Clash/PayPal/README.md",
+      "mode": "100644",
+      "blob": "42b1d53ebbe325c8a93c457a006728df1c43c58d",
+      "bytes": 3145
+    },
+    {
+      "path": "rule/Surge/Apple/Apple_All_No_Resolve.list",
+      "mode": "100644",
+      "blob": "a63c1439c9b91baa7d643aba62c494f88f592bb6",
+      "bytes": 51378
+    },
+    {
+      "path": "rule/Surge/Apple/README.md",
+      "mode": "100644",
+      "blob": "91d45c713b6d656633cfd2710eb474aa21e48385",
+      "bytes": 5455
+    },
+    {
+      "path": "rule/Surge/Cryptocurrency/Cryptocurrency.list",
+      "mode": "100644",
+      "blob": "e018c3a7b64e0b85ae9e07b2684d0b276a10a861",
+      "bytes": 1272
+    },
+    {
+      "path": "rule/Surge/Cryptocurrency/README.md",
+      "mode": "100644",
+      "blob": "914a51d1897d6b2ccf3031e62401d9aa0cb6baca",
+      "bytes": 2517
+    },
+    {
+      "path": "rule/Surge/DouYin/DouYin.list",
+      "mode": "100644",
+      "blob": "c67d38375304b8208dc98f9325e4454ae68cde3c",
+      "bytes": 533
+    },
+    {
+      "path": "rule/Surge/DouYin/README.md",
+      "mode": "100644",
+      "blob": "ab42632ded203cbad70532c5c881dc47c94e3b90",
+      "bytes": 2714
+    },
+    {
+      "path": "rule/Surge/Dropbox/Dropbox.list",
+      "mode": "100644",
+      "blob": "ce4166bc788d22ab0318550e4d9980891e501b7b",
+      "bytes": 699
+    },
+    {
+      "path": "rule/Surge/Dropbox/README.md",
+      "mode": "100644",
+      "blob": "3239196a63158c1ab58a647ada5de45123bf4c7d",
+      "bytes": 2749
+    },
+    {
+      "path": "rule/Surge/Game/Game.list",
+      "mode": "100644",
+      "blob": "c4e1c01a362aae5908471c971ff3326602a0e4bd",
+      "bytes": 19725
+    },
+    {
+      "path": "rule/Surge/Game/README.md",
+      "mode": "100644",
+      "blob": "39c5dfddb33786a70930f4533bb9f23decbde228",
+      "bytes": 6172
+    },
+    {
+      "path": "rule/Surge/Global/Global_All_No_Resolve.list",
+      "mode": "100644",
+      "blob": "bdccd2fcf6ecbdc3ac91816008ce126f06acaae8",
+      "bytes": 1014853
+    },
+    {
+      "path": "rule/Surge/Global/README.md",
+      "mode": "100644",
+      "blob": "19edfa8daf796891f0aea257fac9a5ce2c46e21d",
+      "bytes": 4898
+    },
+    {
+      "path": "rule/Surge/GlobalScholar/GlobalScholar.list",
+      "mode": "100644",
+      "blob": "2a3e007831628d302452042418b585e791e65753",
+      "bytes": 6645
+    },
+    {
+      "path": "rule/Surge/GlobalScholar/README.md",
+      "mode": "100644",
+      "blob": "d38c069d6fddc1c1b5a101822efe4dfa187eb208",
+      "bytes": 3295
+    },
+    {
+      "path": "rule/Surge/GoogleDrive/GoogleDrive.list",
+      "mode": "100644",
+      "blob": "ddaea233131540658f29ebd01d7cdd72b3c1b199",
+      "bytes": 490
+    },
+    {
+      "path": "rule/Surge/GoogleDrive/README.md",
+      "mode": "100644",
+      "blob": "0d123aa0b7b7a204e6cfa3fd45ca700904c68e71",
+      "bytes": 2528
+    },
+    {
+      "path": "rule/Surge/Hijacking/Hijacking.list",
+      "mode": "100644",
+      "blob": "0ffb798f0ce5f098fd3e7dc889fbbca94b9bdd5d",
+      "bytes": 6734
+    },
+    {
+      "path": "rule/Surge/Hijacking/README.md",
+      "mode": "100644",
+      "blob": "91d0b74cd4f95080d08b661d87e34021e98be94f",
+      "bytes": 3022
+    },
+    {
+      "path": "rule/Surge/MEGA/MEGA.list",
+      "mode": "100644",
+      "blob": "50b2b40e87e0b04c700a9cff00df925e8b3b93ff",
+      "bytes": 661
+    },
+    {
+      "path": "rule/Surge/MEGA/README.md",
+      "mode": "100644",
+      "blob": "80d903ff2a8e8c53ec03c120691589e29ea99315",
+      "bytes": 2934
+    },
+    {
+      "path": "rule/Surge/Microsoft/Microsoft.list",
+      "mode": "100644",
+      "blob": "1a2f1eb11b1ddbc318d18a7317e1a0ecc2c139f6",
+      "bytes": 20605
+    },
+    {
+      "path": "rule/Surge/Microsoft/README.md",
+      "mode": "100644",
+      "blob": "fde0af53b1770b8b6a94a131ba8ae168e7a9670d",
+      "bytes": 3734
+    },
+    {
+      "path": "rule/Surge/OneDrive/OneDrive.list",
+      "mode": "100644",
+      "blob": "4114bec0370bc1c135c9b0d12e66a4457f69e7ae",
+      "bytes": 735
+    },
+    {
+      "path": "rule/Surge/OneDrive/README.md",
+      "mode": "100644",
+      "blob": "935d7ad943ce2372ba3eef54fac2ba11247c6435",
+      "bytes": 2896
+    },
+    {
+      "path": "rule/Surge/PrivateTracker/PrivateTracker.list",
+      "mode": "100644",
+      "blob": "f8232731017d07c5d794daad9813dd33f66d41a7",
+      "bytes": 6834
+    },
+    {
+      "path": "rule/Surge/PrivateTracker/README.md",
+      "mode": "100644",
+      "blob": "0ed47bae457b96a9468f1750de7cdb3caa185c5b",
+      "bytes": 3271
+    },
+    {
+      "path": "rule/Surge/Speedtest/README.md",
+      "mode": "100644",
+      "blob": "2995c28fe5090e55f4f2165a565130525d8464c2",
+      "bytes": 2822
+    },
+    {
+      "path": "rule/Surge/Speedtest/Speedtest.list",
+      "mode": "100644",
+      "blob": "fa9ebf61a1a982685497eaa72605d943abe908e9",
+      "bytes": 446
+    },
+    {
+      "path": "rule/Surge/Telegram/README.md",
+      "mode": "100644",
+      "blob": "a47da74e95a7a44fdbec6ba2f20f3fb21a0738e9",
+      "bytes": 4126
+    },
+    {
+      "path": "rule/Surge/Telegram/Telegram.list",
+      "mode": "100644",
+      "blob": "d55a56961bca071058927de1ebb96a3a60ee4f98",
+      "bytes": 1680
+    },
+    {
+      "path": "rule/Surge/TikTok/README.md",
+      "mode": "100644",
+      "blob": "625e93a04fdd6264a799dcce0a0e6ce237dd4549",
+      "bytes": 2987
+    },
+    {
+      "path": "rule/Surge/TikTok/TikTok.list",
+      "mode": "100644",
+      "blob": "371719ae4191ea35031fc103b943e1b357715e8c",
+      "bytes": 1242
+    },
+    {
+      "path": "rule/Surge/Weibo/README.md",
+      "mode": "100644",
+      "blob": "02b2528ff15271566da52d0b05642fcc4c4f1b8f",
+      "bytes": 2659
+    },
+    {
+      "path": "rule/Surge/Weibo/Weibo.list",
+      "mode": "100644",
+      "blob": "3c3ab689ca31c8522a94a7f03d237a0778759971",
+      "bytes": 269
+    },
+    {
+      "path": "rule/Surge/YouTube/README.md",
+      "mode": "100644",
+      "blob": "a01823addf6675761505e0ef76d0f644b791a61c",
+      "bytes": 3218
+    },
+    {
+      "path": "rule/Surge/YouTube/YouTube.list",
+      "mode": "100644",
+      "blob": "8f5477e84e7fc9cc6b73cc0dc0e4b895c6fc823e",
+      "bytes": 5451
+    }
+  ],
+  "selection": "Original source blobs selected without modification."
+}
